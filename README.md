@@ -8,6 +8,8 @@ work bench for web and mobile
 
 ## Google Drive shortcuts
 
+> **NOTE:** Ctrl + Click to open new documents or source files in a new tab
+
   + https://docs.new
     + https://doc.new
     + https://document.new
