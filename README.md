@@ -1,6 +1,10 @@
 # bench
 work bench for web and mobile
 
+## Repos
+
+  + https://github.com/
+
 ## Building materials
 
   + https://domains.google.com/registrar/search
@@ -35,6 +39,18 @@ work bench for web and mobile
 ## Discoverability
 
   + https://search.google.com/search-console
+
+
+## Chrome OS and Cloud Editors
+
+> **NOTE:** 🐧 denotes **Linux for Chrome OS** is required.
+
+  + https://sublimetext.com/3 🐧
+  + https://atom.io 🐧
+  + https://vscode.dev
+  + https://jsfiddle.net
+  + https://codepen.io
+  + https://theia-ide.org/
 
 ## Testing and performance
 
