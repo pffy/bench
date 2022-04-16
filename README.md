@@ -5,6 +5,11 @@ work bench for web and mobile
 
   + https://github.com/
 
+## Package Managers
+  + https://brew.sh
+  + https://spack.io/
+  + https://www.npmjs.com/
+
 ## Building materials
 
   + https://domains.google.com/registrar/search
@@ -30,11 +35,13 @@ work bench for web and mobile
   + https://keep.new
   + https://script.new
 
-## Languages and literature
+## Languages and engines
 
   + https://developer.mozilla.org/en-US/docs/Web/JavaScript
   + https://developer.mozilla.org/en-US/docs/Web/HTML
   + https://kotlinlang.org/
+  + https://nodejs.org/en/
+  + https://www.python.org/
 
 ## Discoverability
 
