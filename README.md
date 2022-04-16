@@ -9,10 +9,18 @@ work bench for web and mobile
 ## Google Drive shortcuts
 
   + https://docs.new
+    + https://doc.new
+    + https://document.new
   + https://sheets.new
+    + https://sheet.new
+    + https://spreadsheet.new
   + https://slides.new
+    + https://slide.new
+    + https://presentation.new
   + https://drawings.new
+    + https://drawing.new
   + https://forms.new
+    + https://form.new
   + https://keep.new
   + https://script.new
 
