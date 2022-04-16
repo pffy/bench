@@ -6,6 +6,7 @@ work bench for web and mobile
   + https://github.com/
 
 ## Package Managers
+
   + https://brew.sh
   + https://spack.io/
   + https://www.npmjs.com/
@@ -54,6 +55,7 @@ work bench for web and mobile
 
   + https://sublimetext.com/3 🐧
   + https://atom.io 🐧
+  + https://developer.android.com/studio 🐧
   + https://ide.cloud.google.com/
   + https://vscode.dev
   + https://jsfiddle.net
