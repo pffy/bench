@@ -18,8 +18,10 @@ work bench for web and mobile
   + https://developers.google.com/apps-script/add-ons/guides/css
   + https://jquery.com/
   + https://jqueryui.com/
-  + https://reactjs.org/
-  + 
+  + https://sass-lang.com/
+  + https://developer.mozilla.org/en-US/docs/Glossary/SPA
+    + https://angularjs.org/
+    + https://reactjs.com
 
 ## Google Drive shortcuts
 
