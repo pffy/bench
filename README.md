@@ -73,6 +73,8 @@ work bench for web and mobile
 
 ## Testing and performance
 
+  + https://docs.github.com/en/actions/quickstart
+  + https://analytics.google.com/
   + https://pagespeed.web.dev/
   + https://www.usability.gov/
   + https://accessibility.digital.gov/
