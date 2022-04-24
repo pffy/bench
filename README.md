@@ -15,6 +15,7 @@ work bench for web and mobile
 
   + https://domains.google.com/registrar/search
   + https://wordpress.com/domains/
+  + https://www.favicon.cc/
   + https://developers.google.com/apps-script/add-ons/guides/css
   + https://jquery.com/
   + https://jqueryui.com/
