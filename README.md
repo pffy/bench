@@ -50,8 +50,11 @@ work bench for web and mobile
   + https://developer.mozilla.org/en-US/docs/Web/JavaScript
   + https://developer.mozilla.org/en-US/docs/Web/HTML
   + https://kotlinlang.org/
+    + Sandbox: https://kotlinlang.org/#:~:text=Teach-,Play,-Playground
   + https://nodejs.org/en/
   + https://www.python.org/
+  + https://www.typescriptlang.org/
+    + Sandbox: https://www.typescriptlang.org/play
 
 ## Discoverability
 
