@@ -7,6 +7,14 @@ work bench for web and mobile
 
   + https://github.com/
 
+## Architecture
+  + https://support.google.com/chrome/a/answer/7515036?hl=en
+  + https://indepth.dev/posts/1204/a-deep-deep-deep-deep-deep-dive-into-the-angular-compiler
+  + https://blog.logrocket.com/deep-dive-react-fiber/
+  + https://webkit.org/blog/3271/webkit-css-selector-jit-compiler/
+  + https://rust-unofficial.github.io/patterns/
+  + 
+
 ## Package Managers
 
   + https://brew.sh
