@@ -3,11 +3,6 @@ work bench for web and mobile
 
 ## Quick Table
 
-| lang | docs | sandbox |
-| :---: | :---: | :---: |
-| [typescript][ts_lang] | [docs][ts_docs] | [sandbox][ts_sandbox]
-| [dart][dart_lang] | [docs][dart_docs] | [sandbox][dart_sandbox]
-
 ## Repos
 
   + https://github.com/
@@ -18,12 +13,15 @@ work bench for web and mobile
   + https://spack.io/
   + https://www.npmjs.com/
 
+## Fonts and Icons
+  + https://github.com/primer/octicons
+  + https://fonts.google.com/
+  + https://www.favicon.cc/
+
 ## Building materials
 
   + https://domains.google.com/registrar/search
   + https://wordpress.com/domains/
-  + https://fonts.google.com/
-  + https://www.favicon.cc/
   + https://developers.google.com/apps-script/add-ons/guides/css
   + https://jquery.com/
   + https://jqueryui.com/
@@ -31,6 +29,8 @@ work bench for web and mobile
   + https://developer.mozilla.org/en-US/docs/Glossary/SPA
     + https://angularjs.org/
     + https://reactjs.com
+    + https://vuejs.org/
+    + https://github.com/spatools
 
 ## Google Drive shortcuts
 
