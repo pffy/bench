@@ -95,7 +95,8 @@ work bench for web and mobile
 ## Testing and performance
 
   + https://docs.github.com/en/actions/quickstart
-  + https://web.dev/lcp/ 👀 `<------`
+  + https://developers.google.com/analytics/devguides/collection/protocol/v1
+  + https://web.dev/lcp/ 👀 `<-- hmmm
   + https://analytics.google.com/
   + https://pagespeed.web.dev/
   + https://validator.w3.org/
