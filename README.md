@@ -40,6 +40,10 @@ work bench for web and mobile
 
   + [regex-unicode][web_regex_unicode]
   + https://www.rexegg.com/regex-quickstart.html
+  + https://www.php.net/manual/en/regexp.reference.character-classes.php
+  + https://theboostcpplibraries.com/boost.regex
+  + https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Regular_Expressions
+  + https://docs.rs/regex/latest/regex/
   + 
 
 ## Building materials
