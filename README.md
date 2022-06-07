@@ -1,11 +1,19 @@
 # bench
 work bench for web and mobile
 
-## Quick Table
+## Makerspaces
+  + https://www.adafruit.com/
+  + https://www.arduino.cc/
+  + https://www.tinkercad.com/
+  + https://www.sketchup.com/plans-and-pricing/sketchup-free
+
 
 ## Repos
 
   + https://github.com/
+  + https://bitbucket.org/product
+  + https://about.gitlab.com/
+  + 
 
 ## Architecture
   + https://support.google.com/chrome/a/answer/7515036?hl=en
@@ -25,6 +33,14 @@ work bench for web and mobile
   + https://github.com/primer/octicons
   + https://fonts.google.com/
   + https://www.favicon.cc/
+
+## Regular Expressions (regex)
+
+> **NOTE:** Regex. Lots of regex.
+
+  + [regex-unicode][web_regex_unicode]
+  + https://www.rexegg.com/regex-quickstart.html
+  + 
 
 ## Building materials
 
@@ -120,3 +136,6 @@ work bench for web and mobile
 [dart_lang]: https://dart.dev/guides
 [dart_docs]: https://dart.dev/guides
 [dart_sandbox]: https://dartpad.dev/
+
+
+[web_regex_unicode]: https://www.regular-expressions.info/unicode.html#:~:text=To%20match%20a%20specific%20Unicode,not%20support%20the%20%5CuFFFF%20syntax.
