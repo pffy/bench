@@ -1,6 +1,14 @@
 # bench
 work bench for web and mobile
 
+## UI / UX / CLI
+  + https://wiki.termux.com/wiki/Main_Page
+  + https://cloud.google.com/sdk/docs/install
+  + https://github.com/cli/cli#installation
+  + https://aws.amazon.com/cli/
+  + https://learn.microsoft.com/en-us/cli/azure/install-azure-cli
+  + 
+
 ## Makerspaces
   + https://www.adafruit.com/
   + https://www.arduino.cc/
